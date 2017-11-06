@@ -1,0 +1,2 @@
+Date                     Transaction Type         Start Bal End Bal   
+10/6/2017 3:00:19 PM     Restocked All Items      $0.00     $0.00     

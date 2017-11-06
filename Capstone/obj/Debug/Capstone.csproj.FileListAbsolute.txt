@@ -1,0 +1,6 @@
+C:\Users\aosterfeld\annieosterfeld-c-exercises\team1-c-week4-pair-exercises\m1-w4d4-c-capstone\Capstone\bin\Debug\Capstone.exe.config
+C:\Users\aosterfeld\annieosterfeld-c-exercises\team1-c-week4-pair-exercises\m1-w4d4-c-capstone\Capstone\bin\Debug\Capstone.exe
+C:\Users\aosterfeld\annieosterfeld-c-exercises\team1-c-week4-pair-exercises\m1-w4d4-c-capstone\Capstone\bin\Debug\Capstone.pdb
+C:\Users\aosterfeld\annieosterfeld-c-exercises\team1-c-week4-pair-exercises\m1-w4d4-c-capstone\Capstone\obj\Debug\Capstone.csprojResolveAssemblyReference.cache
+C:\Users\aosterfeld\annieosterfeld-c-exercises\team1-c-week4-pair-exercises\m1-w4d4-c-capstone\Capstone\obj\Debug\Capstone.exe
+C:\Users\aosterfeld\annieosterfeld-c-exercises\team1-c-week4-pair-exercises\m1-w4d4-c-capstone\Capstone\obj\Debug\Capstone.pdb
